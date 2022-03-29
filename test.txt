@@ -1,3 +1,5 @@
 This is a test to learn a bit more about Git and GitHub.
 
 This is the second test for git.
+
+This is the third test for git.
